@@ -14,7 +14,7 @@ I've always been fascinated by the complexities of UX design, and this project w
 
 Each window in your desktop is rendered on a separate piece of paper, creating a tangible version of your everyday computer. It is a fully featured desktop, with specific shortcuts for window management.
 <p align="center">
-	<img width="500" src="https://github.com/matteosandrin/Holodesk/raw/master/images/IMG_8223.jpg" style="padding: 10px">
+	<img width="500" src="https://github.com/matteosandrin/Holodesk/raw/master/images/holodesk.gif" style="padding: 10px">
 <p>
 
 
@@ -23,7 +23,7 @@ Each window in your desktop is rendered on a separate piece of paper, creating a
 The hardware is combination of a projector and a webcam. The camera tracks the position of the sheets of paper, on which the projector renders the corresponding window. An OpenCV backend does the heavy lifting, calculating the appropriate translation and warping to apply.
 
 <p align="center">
-  <img width="500" src="https://github.com/matteosandrin/Holodesk/raw/master/images/IMG_8226.JPG" style="padding: 10px">
+  <img width="500" src="https://github.com/matteosandrin/Holodesk/raw/master/images/IMG_8223.jpg" style="padding: 10px">
 </p>
 
 
